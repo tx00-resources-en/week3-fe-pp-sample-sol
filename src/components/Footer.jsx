@@ -7,7 +7,7 @@ function Footer() {
       <PageLinks parentClass="footer-links" itemClass="footer-link" />
       <SocialLinks parentClass="footer-icons" itemClass="footer-icon"/>
       <p className="copyright">
-        copyright © travel tours company<span id="date">2024</span>. all rights
+        copyright © travel tours company<span id="date">2025</span>. all rights
         reserved
       </p>
     </footer>
